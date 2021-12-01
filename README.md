@@ -22,4 +22,4 @@ How can you compare it with other pipelines such as Galaxy?
 1. Gilbert Kibet - Team Lead
 2. Margaret Wanjiku 
 3. David Kiragu
-4. 
+4. Evans Mudibo
